@@ -1,4 +1,9 @@
-## Eai, eu sou o Rafael mais conhecido como tafa haha, sou Dev Fron-End e meu foco é aprender a cada dia mais sobre a programação !!
+## Olá tudo bem ? Espero que sim.
+
+Eu me chamo Rafael e sou apaixonado pela tecnologia a cada dia mais! Atualmente tenho 18 anos e estou cursando front end na alura e futuramente pretendo fazer UX designer e engenharia de software, mais não para por aí rsrs.. Também já sou formado em Desenvolvimento de Sistemas. Me formei na universidade Senac.
+Comecei nessa jornada de designer, editor de vídeo e agr front-end, quando tinha 16 anos e a cada dia mais não me canso dessa área e nunca irei me cansar! 
+
+Fique a vontade ao explorar o meu perfil !! Abraços do Rafa.
 
 -- AQUI ABAIXO ESTÁ MINHAS LIGUAGENS E MINHAS REDES SOCIAIS ! --
 
