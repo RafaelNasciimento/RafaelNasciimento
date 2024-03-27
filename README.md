@@ -1,8 +1,7 @@
-Olá tudo bem ?
+Olá tudo bem ? Me chamo Rafael e atualmente tenho 18 anos e sou apaixonado pela tecnologia. 
 
-Atualmente tenho 18 anos e sou apaixonado pela tecnologia. 
-Estou cursando front end na alura e futuramente pretendo fazer UX designer e engenharia de software, mais não para por aí. Também já sou formado em Desenvolvimento de Sistemas. Me formei na universidade Senac.
-Comecei nessa jornada de designer, editor de vídeo e agora front-end, quando tinha 16 anos e a cada dia mais não me canso dessa área e nunca irei me cansar! 
+Estou cursando React na Udemy e futuramente pretendo fazer UX & UI Design e Engenharia de Software, mais não para por aí. Também já sou formado em Desenvolvimento de Sistemas na universidade Senac.
+Comecei nessa jornada de Designer, Editor de Vídeo e agora Ftont-end, quando tinha 16 anos e a cada dia não me canso dessa área e nunca irei me cansar! 
 
 Fique a vontade ao explorar o meu perfil !! Abraços.
 
