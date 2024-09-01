@@ -1,4 +1,5 @@
 Olá tudo bem ? Me chamo Rafael e atualmente tenho 18 anos e sou apaixonado pela tecnologia.
+<br/>
 No momento estou me aprofundando em React, mas já sou formado em Desenvolvimento de Sistemas na universidade Senac EAD-RS.
 
 Fique a vontade ao explorar o meu perfil !! Abraços.
